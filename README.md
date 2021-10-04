@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunalchhabra37
-- 👀 I’m interested in web devlopment, open source contributions, low code/no code.
-- 🌱 I’m currently learning javascript and wix.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Devlopment, Open Source Contributions, 
+- 🌱 I’m currently learning Python and MERN stack.
+
 - 📫 How to reach me - kunalchhabra37@gmail.com
 
 <!---
