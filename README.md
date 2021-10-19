@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunalchhabra37
 - 👀 I’m interested in Web Devlopment, Open Source Contributions, 
-- 🌱 I’m currently learning Python and MERN stack.
+- 🌱 I’m currently learning Python and MERN stack and want to learn about DevOps.
 
 - 📫 How to reach me - kunalchhabra37@gmail.com
 
