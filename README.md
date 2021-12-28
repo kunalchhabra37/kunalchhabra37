@@ -19,7 +19,6 @@
 
 [<img align="left" alt="Kunal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kunal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kunal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Kunal | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
@@ -38,7 +37,7 @@
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
 
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Dishant_Aggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishantagg24/)](https://www.linkedin.com/in/dishantagg24/)
+❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Kunal_Chhabra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-chhabra-5337721b3)](https://www.linkedin.com/in/kunal-chhabra-5337721b3)
 or [![Gmail Badge](https://img.shields.io/badge/kunalchhabra37@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunalchhabra37@gmail.com)](mailto:kunalchhabra37@gmail.com)
 
 
@@ -53,6 +52,5 @@ if you are on a similar path as mine.
 ---
 
 [twitter]: https://twitter.com/kunal_chhabra37
-[instagram]: 
 [linkedin]: https://www.linkedin.com/in/kunal-chhabra-5337721b3
 [gmail]: mailto:kunalchhabra37@gmail.com
