@@ -49,7 +49,6 @@ if you are on a similar path as mine.
 
 
 ----------------------------------------------------------
----
 
 [twitter]: https://twitter.com/kunal_chhabra37
 [linkedin]: https://www.linkedin.com/in/kunal-chhabra-5337721b3
