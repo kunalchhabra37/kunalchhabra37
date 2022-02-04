@@ -41,7 +41,7 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 or [![Gmail Badge](https://img.shields.io/badge/kunalchhabra37@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunalchhabra37@gmail.com)](mailto:kunalchhabra37@gmail.com)
 
 
-❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/kunalchhabra37?label=Follow&style=social)](https://github.com/kunalchhabra37/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@kunal_chhabra37at-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dishant24_agg)](https://twitter.com/kunal_chhabra37)
+❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/kunalchhabra37?label=Follow&style=social)](https://github.com/kunalchhabra37/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@kunal_chhabra37-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kunal_chhabra37)](https://twitter.com/kunal_chhabra37)
 if you are on a similar path as mine.
 
 
